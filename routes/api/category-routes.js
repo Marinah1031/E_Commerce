@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
   // be sure to include its associated Products
   include: [Product],
 })
-.then((category) => res.json(categories))
+.then((category) => res.json(category))
   .catch((err)=> res.status(500).json(err));
 });
 
