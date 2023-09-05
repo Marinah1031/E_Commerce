@@ -3,7 +3,7 @@
 This application goes through the backend of the E_commerce project. This project provides the server-side functionality for managing products, categories, and tags. The backend is built with Node.js, Express.js, and Sequelize ORM.
 
 ## Video Link
-
+https://watch.screencastify.com/v/Zw5Xl8saMCH2vnUUUl5Q
 ## Table of Contents
 
 - [E-commerce Backend](#e-commerce-backend)
