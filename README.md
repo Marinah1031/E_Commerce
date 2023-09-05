@@ -4,6 +4,11 @@ This application goes through the backend of the E_commerce project. This projec
 
 ## Video Link
 https://watch.screencastify.com/v/Zw5Xl8saMCH2vnUUUl5Q
+
+
+https://github.com/Marinah1031/E_Commerce/assets/125934804/851055d8-3204-450f-ac10-5e431a818209
+
+
 ## Table of Contents
 
 - [E-commerce Backend](#e-commerce-backend)
@@ -79,11 +84,18 @@ The server will be running at `http://localhost:3001`.
 
 
 ## Contributing
-
-
+This project was able to function with guidance from the following:
+- Tutor: Trinh Nguyen
+- Instructor (Jared Kotoff)
+- TA (Nick Graffis)
+- UCI Bootcamp Activities and Assignment references
+- Autocomplete in the VS Code
+- Insomnia documentation
+- OOP, Node, and seeding sql documentation
+  
 ## License
 
-
+![GitHub Liscense](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Credits
 
@@ -94,3 +106,7 @@ The development of this program was supported by the course materials and resour
 Shield and badges used in this markdown document were sourced from Shields.io.
 
 ## Contact
+
+
+For further questions regarding the repository, create an issue or contact me at: marinahtam@gmail.com. You can find more of my work on GitHub here: Marinah1031 (https://github.com/Marinah1031 /).
+
