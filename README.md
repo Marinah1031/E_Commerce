@@ -16,9 +16,8 @@ https://github.com/Marinah1031/E_Commerce/assets/125934804/851055d8-3204-450f-ac
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [API Endpoints](#api-endpoints)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Credits](#credits)
+  - [License](#license)
   - [Contact](#contact)
 
 ## Installation
@@ -83,7 +82,7 @@ The server will be running at `http://localhost:3001`.
 - **DELETE /api/tags/:id**: Delete a tag by ID.
 
 
-## Contributing
+## Credits
 This project was able to function with guidance from the following:
 - Tutor: Trinh Nguyen
 - Instructor (Jared Kotoff)
@@ -96,14 +95,6 @@ This project was able to function with guidance from the following:
 ## License
 
 ![GitHub Liscense](https://img.shields.io/badge/license-MIT-blue.svg)
-
-## Credits
-
-Simple ERM was created by me as part a coding challenge for the UCI Full Stack bootcamp course assignment related to topics on OOP, node js., Express.js, Heroku deployment, and more.
-
-The development of this program was supported by the course materials and resources provided by the bootcamp.
-
-Shield and badges used in this markdown document were sourced from Shields.io.
 
 ## Contact
 
